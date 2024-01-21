@@ -37,27 +37,15 @@
       "id": "98443197"
     },
     {
-      "cityName": "Nijar",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-04-03T07:47:59.202Z",
+      "id": "8442",
+      "cityName": "Baramati",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-21T07:35:21.834Z",
       "notes": "",
       "position": {
-        "lat": "36.967508314568164",
-        "lng": "-2.13128394200588"
-      },
-      "id": "98443198"
-    },
-    {
-      "id": "509d",
-      "cityName": "Daneborg",
-      "country": "Greenland",
-      "emoji": "",
-      "date": "2024-01-16T15:31:13.071Z",
-      "notes": "Too cold eh mate",
-      "position": {
-        "lat": "74.0437225981325",
-        "lng": "-36.65039062500001"
+        "lat": "18.145851771694467",
+        "lng": "74.28955078125001"
       }
     }
   ]

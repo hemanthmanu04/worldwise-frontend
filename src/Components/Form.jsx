@@ -11,7 +11,7 @@ import DatePicker from "react-datepicker";
 import { useCities } from "../contexts/CitiesContext";
 import { useNavigate } from "react-router";
 
-export function convertToEmoji(countryCode) {
+function convertToEmoji(countryCode) {
   const codePoints = countryCode
     .toUpperCase()
     .split("")
@@ -49,7 +49,7 @@ function Form() {
 
           setCityName(data.city || data.locality || "");
           setCountry(data.countryName);
-          // setEmoji(convertToEmoji(data.countryCode));
+          setEmoji(convertToEmoji(data.countryCode));
         } catch (err) {
           console.log(err);
           setError(err.message);
