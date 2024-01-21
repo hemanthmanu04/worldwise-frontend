@@ -37,15 +37,27 @@
       "id": "98443197"
     },
     {
-      "id": "8442",
-      "cityName": "Baramati",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-01-21T07:35:21.834Z",
+      "id": "9243",
+      "cityName": "Hemel Hempstead",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-01-21T08:52:58.485Z",
       "notes": "",
       "position": {
-        "lat": "18.145851771694467",
-        "lng": "74.28955078125001"
+        "lat": "51.781435604431195",
+        "lng": "-0.5273437500000001"
+      }
+    },
+    {
+      "id": "7345",
+      "cityName": "Shuanghu County",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-01-21T08:53:13.530Z",
+      "notes": "",
+      "position": {
+        "lat": "32.54681317351517",
+        "lng": "88.63769531250001"
       }
     }
   ]

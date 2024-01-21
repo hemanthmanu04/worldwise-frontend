@@ -41,9 +41,11 @@ function City() {
       <div className={styles.row}>
         <h6>City name</h6>
         <h3>
-          <span className={styles.emoji}>{flagemojiToPNG(emoji)}</span>
-          {cityName}
+          {emoji && (
+            <span className={styles.emoji}>{flagemojiToPNG(emoji)}</span>
+          )}{" "}
         </h3>
+        <h3>{cityName}</h3>
       </div>
 
       <div className={styles.row}>
